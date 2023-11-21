@@ -1,0 +1,42 @@
+.App{   
+    margin-top: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.forms-container{
+    border-radius: 20px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 800px;
+    height: 500px;
+    flex-shrink: 0;
+    background-color: #A01111;
+    box-shadow: #000 15px;
+}
+
+.ButtonA{
+    width: 150px;
+    margin-top: 25px;
+    color: #000;
+    font-family: Fira Mono;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.FormA{
+    width: 500px;
+}
+
+.table-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
